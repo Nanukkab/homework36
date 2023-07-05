@@ -1,0 +1,190 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #F0F2F5;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100vh;
+}
+
+.left-side {
+    width: 619px;
+    height: 900px;
+    background-image: url(aranprime.png.png);
+    background-repeat: no-repeat;
+}
+
+.container {
+    width: 100%;
+    display: flex;
+}
+
+.logo {
+    width: 300px;
+    height: 300px;
+    margin-top: -20px;
+}
+
+.image1 {
+    margin-left: 60px;
+    margin-top: 50px;
+}
+
+.text1 {
+    margin-left: 100px;
+    margin-top: -32px;
+}
+
+.box1 {
+    width: 246px;
+    height: 60px;
+    background-color: #20DC49;
+    border-radius: 48px;
+    border: none;
+    margin-left: 80px;
+    margin-top: 50px;
+    display: flex;
+}
+
+.circle1 {
+    margin-left: 10px;
+}
+
+.box2 {
+    width: 220px;
+    height: 63px;
+    background-color: #5A5A5A;
+    border-radius: 50px;
+    border: none;
+    margin-left: 450px;
+    margin-top: 200px;
+    display: flex;
+    color: white;
+}
+
+.circle2 {
+    margin-left: 10px;
+    margin-top: 3px;
+}
+
+.sign {
+    width: 220px;
+    margin-left: 1280px;
+    font-size: 16px;
+    margin-top: -640px;
+}
+
+.color {
+    color: #20DC49;
+}
+
+.right-side {
+    width: 500px;
+    height: 700px;
+    margin-left: 800px;
+    margin-top: 40px;
+
+}
+
+.color2 {
+    color: #7E7E7E;
+}
+
+.buttons {
+    display: flex;
+    margin-top: 40px;
+}
+
+.google {
+    width: 126px;
+    height: 44px;
+    border-radius: 5px;
+    border: 1px solid #20DC49;
+    margin-left: 110px;
+}
+
+.googleimg {
+    margin-left: 20px;
+    margin-top: 11px;
+}
+
+.googletx {
+    margin-left: 50px;
+    margin-top: -25px;
+}
+
+.facebook {
+    width: 126px;
+    height: 44px;
+    border-radius: 5px;
+    border: 1px solid #DEDEDE;
+    margin-left: 30px;
+}
+
+.fbimg {
+    margin-left: 12px;
+    margin-top: 9px;
+}
+
+.fbtx {
+    margin-left: 45px;
+    margin-top: -26px;
+}
+
+.input {
+    margin-left: 60px;
+}
+
+.fullname {
+    width: 400px;
+    height: 70px;
+    border-radius: 10px;
+    border: 1px solid #D9D9D9;
+    margin-top: 10px;
+    padding-left: 20px;
+}
+
+.email {
+    width: 400px;
+    height: 70px;
+    border-radius: 10px;
+    border: 1px solid #D9D9D9;
+    margin-top: 30px;
+    padding-left: 20px;
+}
+
+.Password {
+    width: 400px;
+    height: 70px;
+    border-radius: 10px;
+    border: 1px solid #D9D9D9;
+    margin-top: 30px;
+    padding-left: 20px;
+}
+
+.conpass {
+    width: 400px;
+    height: 70px;
+    border-radius: 10px;
+    border: 1px solid #D9D9D9;
+    margin-top: 30px;
+    padding-left: 20px;
+}
+
+.button {
+    width: 400px;
+    height: 57px;
+    border-radius: 10px;
+    background-color: #20DC49;
+    border: none;
+    margin-top: 30px;
+}
+
+.text3 {
+    color: #7E7E7E;
+    margin-top: 40px;
+    padding-left: 20px;
+}
